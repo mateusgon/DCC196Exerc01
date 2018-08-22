@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DCC196-Exerc01</string>
+    <string name="nomeText">Digite seu nome aqui!</string>
+    <string name="sobrenomeText">Digite seu sobrenome aqui!</string>
+    <string name="confirmaButton" />
+    <string name="confirma_Button">Confirma!</string>
+</resources>
